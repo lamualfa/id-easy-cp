@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "git-diff": "^2.0.6",
+    "pretty-hrtime": "^1.0.3"
+  }
+}
